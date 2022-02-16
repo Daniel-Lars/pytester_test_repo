@@ -2,6 +2,7 @@ import os
 import math
 
 
+
 def add(a, b) -> int:
     return math.floor(a + b)
 
@@ -17,4 +18,3 @@ def to_sentence(s) -> str:
 
 def sub(a, b) -> int:
     return math.floor(a - b)
-
